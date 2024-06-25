@@ -7,7 +7,7 @@ The repository shows the analys of Uber Driving Data in New York City, US.
 
 
 
-  * 2.1 Page 1 shows the Pick-Up locations in New York. The sheet allows the user to filter the data based on the pick-up area, payment method, and Vendor's ID. Additionally, page 1 shows the following statistics: 
+  - 2.1 Page 1 shows the Pick-Up locations in New York. The sheet allows the user to filter the data based on the pick-up area, payment method, and Vendor's ID. Additionally, page 1 shows the following statistics: 
    - 2.1.1 Total Amount of Trips
    - 2.1.2 Average Fare Amount (USD)
    - 2.1.3 Average Tip Amount (USD)
